@@ -14,4 +14,4 @@ Em 2 de julho , uma nave-mãe alienígena entrou em órbita  da terra e implanto
 em forma de pires, a cada 24 quilometros de largura.
 Em 3 de julho os cavaleiros negros, umm esquadrão de marine Corps F / A-18 hornets, participou de um assalto a um destruidor
 perto da cidade de Los Angeles.
-
+ 
