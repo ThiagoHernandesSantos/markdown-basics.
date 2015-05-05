@@ -72,4 +72,4 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Horn
 <ul><li><a href="https://help.github.com/articles/github-flavored-markdown/">GitHub Flavored Markdown</a></li>
 <li><a href="https://help.github.com/articles/writing-on-github/">Escrevendo no GitHub</a>
 <li><a href="http://guides.github.com/features/mastering-markdown/">Dominando Markdown</a></li></ul>
-</html>
+</html> 
